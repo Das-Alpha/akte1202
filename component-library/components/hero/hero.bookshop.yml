@@ -16,10 +16,10 @@ blueprint:
   description_html: ""
   image: ""
   image_alt: ""
-  cta_button: ""
-  cta_button_link: ""
-  works_button: ""
-  works_button_link: ""
+  #cta_button: ""
+  #cta_button_link: ""
+  #works_button: ""
+  #works_button_link: ""
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:
@@ -30,10 +30,10 @@ preview:
     from online media to printed artwork.
   image: /images/01.jpg
   image_alt: Vanessa Marley's picture
-  cta_button: Get in touch
-  cta_button_link: "#contact"
-  works_button: See my works
-  works_button_link: "#projects"
+  #cta_button: Get in touch
+  #cta_button_link: "#contact"
+  #works_button: See my works
+  #works_button_link: "#projects"
 
 # Any extra CloudCannon inputs configuration to apply to the blueprint
 _inputs: {}
