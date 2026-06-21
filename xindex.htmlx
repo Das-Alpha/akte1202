@@ -6,21 +6,21 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Akte 1202</title>
+  <title>Home</title>
   <meta name='description' content='Akte 1202 behandelt eine ehemalige, geheime Nazi-Akte'>
 
-  <link rel="canonical" href="/">
+  <link rel="canonical" href="/xindex">
 
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Akte 1202">
-  <meta name="twitter:description" content="Akte 1202 behandelt eine ehemalige, geheime Nazi-Akte">
-  <meta name="twitter:image:src" content="/images/01.jpg">
+  <meta name="twitter:title" content="Home – Akte 1202">
+  <meta name="twitter:description" content="">
+  <meta name="twitter:image:src" content="">
 
   <!-- Facebook OpenGraph -->
-  <meta property="og:title" content="Akte 1202">
-  <meta property="og:description" content="Akte 1202 behandelt eine ehemalige, geheime Nazi-Akte">
-  <meta property="og:image" content="/images/01.jpg">
+  <meta property="og:title" content="Home – Akte 1202">
+  <meta property="og:description" content="">
+  <meta property="og:image" content="">
 
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;900&display=swap" rel="stylesheet">
@@ -65,7 +65,7 @@
               
                 
                 <li class="nav__item">
-                  <a href="/" class="nav__link active-link">Home</a>
+                  <a href="/" class="nav__link">Home</a>
                 </li>
                 
               
@@ -169,7 +169,64 @@
 <!-- end hero -->
 <!--bookshop-live end-->
 
-    <!--bookshop-live name(blog-section/blog-section.jekyll.html) params(bind=block) context(block=content_blocks[1]) -->
+    <!--bookshop-live name(projects-section/projects-section.jekyll.html) params(bind=block) context(block=content_blocks[1]) -->
+<!-- begin projects -->
+<section class="section projects" id="projects">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="contaniner__inner animate">
+
+          <div class="section__info">
+            <div class="section__head">
+              <h2 class="section__title">Latest Works</h2>
+              <a class="section__link" href="/projects">View all <ion-icon name="arrow-forward"></ion-icon></a>
+            </div>
+            <div class="section__description"><p>I show only my best works built completely with passion, simplicity, and creativity!</p></div>
+          </div>
+
+          
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end projects -->
+<!--bookshop-live end-->
+
+    <!--bookshop-live name(testimonials-section/testimonials-section.jekyll.html) params(bind=block) context(block=content_blocks[2]) -->
+<!-- begin testimonials -->
+<section class="section testimonials animate">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+
+        <div class="section__info">
+          <div class="section__head">
+            <h2 class="section__title">Happy Clients</h2>
+            <ul class="controls list-reset" id="customize-controls" aria-label="Slider Navigation" tabindex="0">
+              <li class="prev" data-controls="prev" aria-controls="customize" tabindex="-1">
+                <ion-icon name="arrow-back"></ion-icon>
+              </li>
+              <li class="next" data-controls="next" aria-controls="customize" tabindex="-1">
+                <ion-icon name="arrow-forward"></ion-icon>
+              </li>
+            </ul>
+          </div>
+          <div class="section__description"></div>
+        </div>
+
+        
+
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end testimonials -->
+<!--bookshop-live end-->
+
+    <!--bookshop-live name(blog-section/blog-section.jekyll.html) params(bind=block) context(block=content_blocks[3]) -->
 <!-- begin blog -->
 <section class="section blog">
   <div class="container">
