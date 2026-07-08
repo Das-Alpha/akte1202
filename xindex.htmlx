@@ -267,7 +267,7 @@
 
       <div class="c-blog-card__meta">
         <div class="c-blog-card__author-image">
-          <img loading="lazy" src="/images/avatar.jpg" alt="Das Alpha">
+          <img loading="lazy" src="/assets/img/avatar/the-wise-wolf.jpg" alt="Das Alpha">
         </div>
         <div class="c-blog-card__info">
           <div class="c-blog-card__author-name">Das Alpha</div>
@@ -315,7 +315,7 @@
 
       <div class="c-blog-card__meta">
         <div class="c-blog-card__author-image">
-          <img loading="lazy" src="/images/avatar.jpg" alt="Das Alpha">
+          <img loading="lazy" src="/assets/img/avatar/the-wise-wolf.jpg" alt="Das Alpha">
         </div>
         <div class="c-blog-card__info">
           <div class="c-blog-card__author-name">Das Alpha</div>
@@ -365,7 +365,7 @@
 
       <div class="c-blog-card__meta">
         <div class="c-blog-card__author-image">
-          <img loading="lazy" src="/images/avatar.jpg" alt="Das Alpha">
+          <img loading="lazy" src="/assets/img/avatar/the-wise-wolf.jpg" alt="Das Alpha">
         </div>
         <div class="c-blog-card__info">
           <div class="c-blog-card__author-name">Das Alpha</div>
